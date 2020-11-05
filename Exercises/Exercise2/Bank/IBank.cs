@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Exercise2.Bank
+namespace Exercise3.Bank
 {
     public interface IBank
     {

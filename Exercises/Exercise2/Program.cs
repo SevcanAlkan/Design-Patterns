@@ -1,8 +1,8 @@
-﻿using Exercise2.Bank;
-using Exercise2.Loan;
+﻿using Exercise3.Bank;
+using Exercise3.Loan;
 using System;
 
-namespace Exercise2
+namespace Exercise3
 {
     class Program
     {

@@ -1,9 +1,9 @@
-﻿using Exercise2.Loan;
+﻿using Exercise3.Loan;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Exercise2.Bank
+namespace Exercise3.Bank
 {
     public class BankFactory : AbstractFactory
     {

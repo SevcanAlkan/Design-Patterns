@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Exercise1
+namespace Exercise2
 {
     abstract class Plan
     {

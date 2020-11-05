@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\Develop\\Design-Patterns\\Exercises\\Exercise2\\Exercise2.csproj",
-      "projectName": "Exercise2",
-      "projectPath": "E:\\Projects\\Develop\\Design-Patterns\\Exercises\\Exercise2\\Exercise2.csproj",
+      "projectUniqueName": "E:\\Projects\\Develop\\Design-Patterns\\Exercises\\Exercise2\\Exercise3.csproj",
+      "projectName": "Exercise3",
+      "projectPath": "E:\\Projects\\Develop\\Design-Patterns\\Exercises\\Exercise2\\Exercise3.csproj",
       "packagesPath": "C:\\Users\\Sevca\\.nuget\\packages\\",
       "outputPath": "E:\\Projects\\Develop\\Design-Patterns\\Exercises\\Exercise2\\obj\\",
       "projectStyle": "PackageReference",

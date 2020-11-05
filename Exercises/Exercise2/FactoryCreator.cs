@@ -1,10 +1,10 @@
-﻿using Exercise2.Bank;
-using Exercise2.Loan;
+﻿using Exercise3.Bank;
+using Exercise3.Loan;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Exercise2
+namespace Exercise3
 {
     public class FactoryCreator
     {
