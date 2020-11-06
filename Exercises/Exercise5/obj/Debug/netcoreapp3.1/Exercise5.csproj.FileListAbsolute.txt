@@ -1,0 +1,13 @@
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.exe
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.deps.json
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.runtimeconfig.json
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.runtimeconfig.dev.json
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.dll
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.pdb
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.csprojAssemblyReference.cache
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.AssemblyInfoInputs.cache
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.AssemblyInfo.cs
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.csproj.CoreCompileInputs.cache
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.dll
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.pdb
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.genruntimeconfig.cache
