@@ -10,3 +10,4 @@ E:\Projects\Develop\Design-Patterns\Exercises\Exercise1\obj\Debug\netcoreapp3.1\
 E:\Projects\Develop\Design-Patterns\Exercises\Exercise1\obj\Debug\netcoreapp3.1\Exercise2.dll
 E:\Projects\Develop\Design-Patterns\Exercises\Exercise1\obj\Debug\netcoreapp3.1\Exercise2.pdb
 E:\Projects\Develop\Design-Patterns\Exercises\Exercise1\obj\Debug\netcoreapp3.1\Exercise2.genruntimeconfig.cache
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise1\obj\Debug\netcoreapp3.1\Exercise2.csprojAssemblyReference.cache
