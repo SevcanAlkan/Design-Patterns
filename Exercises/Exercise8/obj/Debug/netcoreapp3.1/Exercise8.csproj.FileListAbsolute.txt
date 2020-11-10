@@ -1,0 +1,12 @@
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.AssemblyInfoInputs.cache
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.AssemblyInfo.cs
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.csproj.CoreCompileInputs.cache
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.exe
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.deps.json
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.runtimeconfig.json
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.runtimeconfig.dev.json
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.dll
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.pdb
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.dll
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.pdb
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.genruntimeconfig.cache
