@@ -32,7 +32,7 @@ bld/
 [Ll]ogs/
 
 # Visual Studio 2015/2017 cache/options directory
-*.vs/
+.vs/
 # Uncomment if you have tasks that create the project's static files in wwwroot
 #wwwroot/
 
@@ -63,8 +63,6 @@ artifacts/
 
 # StyleCop
 StyleCopReport.xml
-
-*obj/
 
 # Files built by Visual Studio
 *_i.c
@@ -442,9 +440,3 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-Exercises/.vs/Exercises/DesignTimeBuild/.dtbcache.v2
-Exercises/.vs/Exercises/v16/.suo
-Exercises/Exercise1/obj/Debug/netcoreapp3.1/Exercise2.csprojAssemblyReference.cache
-Exercises/Exercise2/obj/Debug/netcoreapp3.1/Exercise3.csprojAssemblyReference.cache
-Exercises/Exercise5/obj/Debug/netcoreapp3.1/Exercise5.csprojAssemblyReference.cache
-Exercises/Exercise6Alternative/obj/Debug/netcoreapp3.1/Exercise6Alternative.csprojAssemblyReference.cache
