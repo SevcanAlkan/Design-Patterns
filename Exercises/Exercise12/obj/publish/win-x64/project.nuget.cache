@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rQS7eNBMC7pdYOkvWL+TzHhQhxWAJTzZtDMHbRMAaPTEg8dfJ1dytla0Nd33C+U1hcFq+jHqGnnjUSjyHfrOuA==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Develop\\Design-Patterns\\Exercises\\Exercise12\\Exercise12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sevca\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.9\\microsoft.netcore.app.runtime.win-x64.3.1.9.nupkg.sha512",
+    "C:\\Users\\Sevca\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.9\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.9.nupkg.sha512",
+    "C:\\Users\\Sevca\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.9\\microsoft.aspnetcore.app.runtime.win-x64.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

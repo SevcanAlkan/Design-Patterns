@@ -1,0 +1,13 @@
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise11\bin\Release\netcoreapp3.1\Exercise11.exe
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise11\bin\Release\netcoreapp3.1\Exercise11.deps.json
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise11\bin\Release\netcoreapp3.1\Exercise11.runtimeconfig.json
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise11\bin\Release\netcoreapp3.1\Exercise11.runtimeconfig.dev.json
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise11\bin\Release\netcoreapp3.1\Exercise11.dll
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise11\bin\Release\netcoreapp3.1\Exercise11.pdb
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise11\obj\Release\netcoreapp3.1\Exercise11.csprojAssemblyReference.cache
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise11\obj\Release\netcoreapp3.1\Exercise11.AssemblyInfoInputs.cache
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise11\obj\Release\netcoreapp3.1\Exercise11.AssemblyInfo.cs
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise11\obj\Release\netcoreapp3.1\Exercise11.csproj.CoreCompileInputs.cache
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise11\obj\Release\netcoreapp3.1\Exercise11.dll
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise11\obj\Release\netcoreapp3.1\Exercise11.pdb
+E:\Projects\Develop\Design-Patterns\Exercises\Exercise11\obj\Release\netcoreapp3.1\Exercise11.genruntimeconfig.cache
