@@ -4,8 +4,6 @@ namespace Exercise10
 {
     class Program
     {
-        private static int choice;
-
         static void Main(string[] args)
         {
             int input = 0;
